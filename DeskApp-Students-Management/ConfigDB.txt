@@ -1,0 +1,4 @@
+﻿DataScr: <DESKTOP-3LVMLDG\SQLEXPRESS>
+DbName: <Manage_Student>
+Username: <sa>
+Password: <123456a@>
